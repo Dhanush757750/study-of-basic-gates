@@ -96,7 +96,8 @@ endmodule
 **RTL realization Output:** 
 
 **RTL**
-![Uploading Screenshot 2025-09-18 154646.png…]()
+<img width="1920" height="1200" alt="Screenshot 2025-09-18 154646" src="https://github.com/user-attachments/assets/c0dc2090-a879-4008-86db-974cd6f70755" />
+
 
 **Result:**
 
